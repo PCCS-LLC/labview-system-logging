@@ -52,12 +52,8 @@ Please make sure your contributions align with the project's coding standards an
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
-For support, please open an issue on the repository or contact the project maintainers directly via email at support@example.com.
+For support, please open an issue on the repository.
 
 ## Acknowledgements
 - Special thanks to the LabVIEW community for continuous support and inspiration.
 - This project uses concepts and structures inspired by existing logging frameworks in other programming languages.
-
----
-
-Feel free to customize this further according to your preferences.
