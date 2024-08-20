@@ -2,8 +2,11 @@
 
 **LabVIEW System.Logging** is an open-source utility and extension framework designed to enhance the developer experience while debugging in the LabVIEW IDE.
 
-## Key Features
-- **Unified Interface:** Logging is handled through a single, consistent interface, simplifying the integration of logging into your LabVIEW projects.
+## IT HAS A CONSOLE
+That's right a console! printf, console.writline, console.log - your terminal dreams now available in LabVIEW!
+
+## OTHER COOL STUFF
+- **Unified Interface:** Logging is handled through a single, consistent set of api functions, simplifying the integration of logging into your LabVIEW projects.
 - **Dependency Zero:** Default providers only require LabVIEW Base, allowing for easy application to small or legacy projects. 
 - **Severity Support:** Filter through the noise with severity configurations within log providers.
 - **Extensible Providers:** The framework is released with two initial providers, "console" and "json". It’s designed to support the addition of new providers, enabling flexibility to integrate various logging utilities.
