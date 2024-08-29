@@ -18,10 +18,8 @@ That's right a console! printf, console.writline, console.log - your terminal dr
 System.Logging requires LabVIEW 2021+
 
 ## Installation
-1. **Download/Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo/LabVIEW-System-Logging.git
-   ```
+1. **Download the Latest Release:**
+   [System.Logging - Latest Stable](https://github.com/PCCS-LLC/labview-system-logging/releases/latest)
 2. **Copy Source Files to Your Project Directory**
 3. **Enjoy**
 
