@@ -26,7 +26,7 @@ System.Logging requires LabVIEW 2021+
 3. **Enjoy**
 
 ## Logger Configuration
-The System.Logger is configured via json file, by way of example this repository containts `logger.config` - an example configuration of both standard providers is shown below:
+The System.Logger is configured via json file. By way of example this repository contains `logger.config` - an example configuration of both standard providers is shown below:
 
 ![image](https://github.com/user-attachments/assets/2dce51a4-b808-43f3-b306-f2d6b3fb9a24)
   
