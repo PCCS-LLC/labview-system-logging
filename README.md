@@ -21,7 +21,7 @@ System.Logging requires LabVIEW 2021+
 1. **Download the Latest Release:**
    [System.Logging - Latest Stable](https://github.com/PCCS-LLC/labview-system-logging/releases/latest)
 2. **Copy Source Files to Your Project Directory**
-4. **Enjoy**
+3. **Enjoy**
 
 ## Logger Configuration
 The System.Logger is configured via json file. By way of example this repository contains `logger.config` - an example configuration of both standard providers is shown below:
